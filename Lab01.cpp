@@ -1,4 +1,4 @@
-#include <glut.h>  // Note: this automatically includes other 
+#include <GL/glut.h>  // Note: this automatically includes other 
                       // required header files, including: 
                       //    glu.h      (GL utility functions) 
                       //    gl.h       (GL functions) 
