@@ -1,5 +1,5 @@
 #include <iostream> 
-#include <glut.h> 
+#include <GL/glut.h> 
 
 GLint  WindowHeight = 400; 
 GLint  WindowWidth  = 400; 
